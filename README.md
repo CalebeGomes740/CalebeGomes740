@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="left">Olá! <br><br>Sou Calebe Gomes, um entusiasta da tecnologia explorando o vasto universo do desenvolvimento de software. No meu GitHub, CalebeGomes740, você encontrará uma jornada de aprendizado contínuo, com projetos que refletem minha paixão por programação e minha busca por soluções criativas. Seja bem-vindo ao meu espaço digital, onde cada linha de código é um passo em direção a novas descobertas e aprimoramento de habilidades.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CalebeGomes740&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CalebeGomes740&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CalebeGomes740&radius=16&theme=gruvbox&area=true&order=5" height="280" alt="activity-graph graph"  />
+</div>
+
+###
 
 <!--
 **CalebeGomes740/CalebeGomes740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
